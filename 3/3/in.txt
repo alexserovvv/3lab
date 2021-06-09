@@ -1,0 +1,8 @@
+Perm;Vladivostok;10
+Moscow;Saint-petersburg;7
+Perm;Saint-petersburg;1
+Moscow;Vladivostok;14
+Krasnoyarsk;Moscow;2
+Krasnoyarsk;Novosibirsk;5
+Vladivostok;Novosibirsk;8
+Moscow;Novosibirsk;20
